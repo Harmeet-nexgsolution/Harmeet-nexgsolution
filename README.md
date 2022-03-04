@@ -5,6 +5,8 @@
 
 <!-- code in ends-->
 <h2>👀 Stats</h2>
+ 
+![alt_text](./review.jpg)
 
 <div> 
   <p align="center">
