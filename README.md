@@ -6,8 +6,10 @@
 <!-- code in ends-->
 <h2>👀 Stats</h2>
  
-![alt_text](./commit.jpg)
-
+<!-- ![alt_text](./commit.jpg) -->
+<p align="center">
+   <img src="./commit.jpg" width="600" height="600">
+ </p>
 <div> 
   <p align="center">
     <h2>My Github Activity</h2>
