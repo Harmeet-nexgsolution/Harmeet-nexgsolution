@@ -6,7 +6,7 @@
 <!-- code in ends-->
 <h2>👀 Stats</h2>
  
-![alt_text](./R.jpg)
+![alt_text](./commit.jpg)
 
 <div> 
   <p align="center">
