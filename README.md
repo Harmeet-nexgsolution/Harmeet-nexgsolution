@@ -10,6 +10,11 @@
 <p align="center">
    <img src="./commit.jpg" width="600" height="600">
  </p>
+  
+ <h2 align="center">🦊 🍥 ⛩️ 🍥 🍜 🦊</h2>
+ <p align="center">
+    <img src="./12161.gif" width="400" height="500">
+ </p>
 <div> 
   <p align="center">
     <h2>My Github Activity</h2>
